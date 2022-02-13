@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on: interesting projects
 - 💬 Ask me about: fintech, spring, java, kotlin, teaching, learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moser-dominik/), [Twitter](https://twitter.com/HemerocDrakone)
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
