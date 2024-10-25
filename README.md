@@ -8,7 +8,7 @@
 - 🌱 I like to learn something new every day, currently it's rust
 - 👯 I’m looking to collaborate on: interesting projects
 - 💬 Ask me about: fintech, spring, java, kotlin, teaching, learning, rust
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moser-dominik/), [𝕏](https://x.com/HemerocDrakone)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moser-dominik/), [X](https://x.com/HemerocDrakone)
 - 😄 Pronouns: he/him
 
 ## :octocat: GitHub Tips and Tricks
